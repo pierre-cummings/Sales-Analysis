@@ -1,7 +1,7 @@
 
 Paste:
 
-```markdown
+
 # Python Sales Analysis
 
 ## Project Overview
