@@ -7,8 +7,10 @@ This repository contains projects demonstrating my skills in:
 - SQL
 - Python
 - Power BI
-- Data visualization
-- Business analytics
+- Data Visualization
+- Data Cleaning
+- Data Analysis
+- Business Intelligence
 
 ---
 
@@ -44,5 +46,6 @@ Tools:
 - Python
 - Pandas
 - Matplotlib
+- Jupyter Notebook
 
 Folder: python-sales-analysis
