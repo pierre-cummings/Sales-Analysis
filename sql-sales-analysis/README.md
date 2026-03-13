@@ -110,7 +110,7 @@ These metrics provide a high-level snapshot of business performance and establis
 
 ## Result
 
-![KPI Overview](outputs/KPI Overview.png)
+![KPI Overview](sql-sales-analysis/outputs/KPI Overview.png)
 
 ---
 
