@@ -143,7 +143,8 @@ Regional analysis helps businesses identify high-performing markets and determin
 
 ## Result
 
-![Sales By Region](screenshots/Sales By Region.png)
+<img width="1915" height="827" alt="Sales By Region" src="https://github.com/user-attachments/assets/85562ce6-188c-4501-8252-9bd466513a28" />
+
 
 ---
 
@@ -175,7 +176,8 @@ Understanding time-based sales patterns helps organizations forecast demand, pla
 
 ## Result
 
-![Sales Trend](screenshots/Sales Trend By Month.png)
+<img width="1915" height="827" alt="Sales Trend By Month" src="https://github.com/user-attachments/assets/f46f5835-cdeb-48ae-8895-d56a19cff34c" />
+
 
 ---
 
@@ -206,7 +208,8 @@ High-performing products often drive a large share of total revenue. Identifying
 
 ## Result
 
-![Top Product Sales](screenshots/Top Product Sales.png)
+<img width="1915" height="825" alt="Top Product Sales" src="https://github.com/user-attachments/assets/28ed05a8-001e-4213-9914-c53c6f019fdc" />
+
 
 ---
 
@@ -266,7 +269,8 @@ Identifying high-value customers helps organizations focus retention strategies,
 
 ## Result
 
-![Top Customers](screenshots/top_customers_per_region.png)
+<img width="1912" height="1024" alt="top_customers_per_region" src="https://github.com/user-attachments/assets/b3987bb5-de79-47b4-b17b-413cad5fd295" />
+
 
 ---
 
@@ -320,7 +324,8 @@ Understanding top-performing products within each category helps managers optimi
 
 ## Result
 
-![Top Products By Category](screenshots/top_products_by_category_rank.png)
+<img width="1914" height="1022" alt="top_products_by_category_rank" src="https://github.com/user-attachments/assets/13713845-d6f8-439b-84a3-424c12a0b413" />
+
 
 ---
 
