@@ -110,7 +110,8 @@ These metrics provide a high-level snapshot of business performance and establis
 
 ## Result
 
-![KPI Overview](sql-sales-analysis/outputs/KPI Overview.png)
+<img width="1905" height="829" alt="KPI Overview" src="https://github.com/user-attachments/assets/62fa102d-3f67-438d-a9f0-e71bf8af7047" />
+
 
 ---
 
@@ -338,7 +339,7 @@ Understanding top-performing products within each category helps managers optimi
 sql-sales-analysis
 │
 ├── README.md
-└── screenshots
+└── outputs
     ├── KPI Overview.png
     ├── Sales By Region.png
     ├── Sales Trend By Month.png
