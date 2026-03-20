@@ -64,7 +64,7 @@ region_sales = df.groupby('Region')['Sales'].sum()
 
 Understanding regional performance helps businesses allocate resources, optimize logistics, and target high-performing markets.
 
-#### Result
+## Result
 
 <img width="1169" height="773" alt="region_sales" src="https://github.com/user-attachments/assets/1efb9865-7c5f-450e-acde-7918578af013" />
 
