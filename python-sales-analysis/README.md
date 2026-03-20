@@ -66,7 +66,7 @@ Understanding regional performance helps businesses allocate resources, optimize
 
 #### Result
 
-![Sales by Region]<img width="1169" height="773" alt="region_sales" src="https://github.com/user-attachments/assets/1efb9865-7c5f-450e-acde-7918578af013" />
+<img width="1169" height="773" alt="region_sales" src="https://github.com/user-attachments/assets/1efb9865-7c5f-450e-acde-7918578af013" />
 
 
 ---
@@ -90,7 +90,7 @@ Analyzing trends over time helps identify seasonality, forecast demand, and plan
 
 #### Result
 
-![Monthly Sales]<img width="1159" height="853" alt="monthly_sales" src="https://github.com/user-attachments/assets/b99b5ce8-c8e2-4d58-a1bd-191e9707a1a9" />
+<img width="1159" height="853" alt="monthly_sales" src="https://github.com/user-attachments/assets/b99b5ce8-c8e2-4d58-a1bd-191e9707a1a9" />
 
 
 ---
@@ -112,7 +112,7 @@ This helps businesses understand which product groups drive revenue and where to
 
 #### Result
 
-![Category Sales]<img width="1159" height="845" alt="category_sales" src="https://github.com/user-attachments/assets/d4f056cd-f3a5-433c-810f-e8f79f4108ec" />
+<img width="1159" height="845" alt="category_sales" src="https://github.com/user-attachments/assets/d4f056cd-f3a5-433c-810f-e8f79f4108ec" />
 
 
 ---
@@ -134,7 +134,7 @@ Identifying top-performing products helps guide pricing, promotions, and stockin
 
 #### Result
 
-![Top Products]<img width="1153" height="871" alt="top_products" src="https://github.com/user-attachments/assets/edd91a47-0387-4f20-92ce-262f43c84bde" />
+<img width="1153" height="871" alt="top_products" src="https://github.com/user-attachments/assets/edd91a47-0387-4f20-92ce-262f43c84bde" />
 
 
 ---
