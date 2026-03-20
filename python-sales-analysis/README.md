@@ -88,7 +88,7 @@ monthly_sales = df.groupby(df['Order Date'].dt.to_period('M'))['Sales'].sum()
 
 Analyzing trends over time helps identify seasonality, forecast demand, and plan promotions.
 
-#### Result
+## Result
 
 <img width="1159" height="853" alt="monthly_sales" src="https://github.com/user-attachments/assets/b99b5ce8-c8e2-4d58-a1bd-191e9707a1a9" />
 
@@ -110,7 +110,7 @@ category_sales = df.groupby('Category')['Sales'].sum()
 
 This helps businesses understand which product groups drive revenue and where to focus inventory and marketing efforts.
 
-#### Result
+## Result
 
 <img width="1159" height="845" alt="category_sales" src="https://github.com/user-attachments/assets/d4f056cd-f3a5-433c-810f-e8f79f4108ec" />
 
@@ -132,7 +132,7 @@ top_products = df.groupby('Product Name')['Sales'].sum().sort_values(ascending=F
 
 Identifying top-performing products helps guide pricing, promotions, and stocking strategies.
 
-#### Result
+## Result
 
 <img width="1153" height="871" alt="top_products" src="https://github.com/user-attachments/assets/edd91a47-0387-4f20-92ce-262f43c84bde" />
 
