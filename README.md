@@ -1,4 +1,4 @@
-# Pierre Cummings — Data Analyst Portfolio
+# Pierre Cummings — Data Analyst
 
 Welcome to my data analytics project portfolio.
 
