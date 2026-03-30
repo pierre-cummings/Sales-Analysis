@@ -1,8 +1,8 @@
 # Pierre Cummings — Data Analyst
 
-Welcome to my data analytics project portfolio.
+Welcome to my sales analysis project.
 
-This repository contains projects demonstrating my skills in:
+This repository contains a project demonstrating my skills in:
 
 - SQL
 - Python
